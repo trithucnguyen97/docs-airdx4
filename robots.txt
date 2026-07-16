@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-sgdsz7.indcuan.cfd/sitemap.xml
